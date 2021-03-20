@@ -3,7 +3,7 @@
 	$server = "localhost"; 
 	$user = "root"; // Логин БД
 	$pass = ""; // Пароль БД
-	$dbname = 'tg_alterra'; // Имя БД
+	$dbname = 'dbname'; // Имя БД
 	$db_table = "contacts"; // Имя Таблицы БД
 
 	// Подключение к базе данных
