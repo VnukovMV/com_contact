@@ -7,7 +7,7 @@
 	$server = "localhost"; 
 	$user = "root"; // Логин БД
 	$pass = ""; // Пароль БД
-	$dbname = 'dbname'; // Имя БД
+	$dbname = 'tg_alterra'; // Имя БД
 	$db_table = "contacts"; // Имя Таблицы БД
 	$datetime = date("yy-m-d H:i:s"); 
 	
